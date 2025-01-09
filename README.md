@@ -1,2 +1,2 @@
 # OpenAIProjects
-Playing around with the OpenAI API
+Playing around with the OpenAI API and related APIs.
